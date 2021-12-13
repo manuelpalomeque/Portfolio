@@ -10,7 +10,7 @@ Python, PostgreSQL, HTML y CSS.<br>
 Actualmente me encuentro formándome en la "Diplomatura en Seguridad Informática Ágil" y en 2022 empiezo el cursado de 
 Ingenieria en Sistemas de la UTN. Este es mi Portfolio.
 
-###Tecnologías utilizadas:🔍
+### Tecnologías utilizadas:🔍
 Este sitio web fue creado con: <b>HTML5 y CSS3</b>.
 
 ###Información sobre el proyecto:👨🏻‍💻
