@@ -4,7 +4,7 @@ Este es mi portfolio profesional. El mismo se puede visualizar mediante el sigui
 
 👉  <a href="https://manuelpalomeque.github.io/Portfolio/" target="_blank">¡Ver el Porfolio de Palomeque Jonathan Manuel!</a>
 
-###¿Quién soy?: 🙋‍♂️
+<h3>¿Quién soy?: 🙋‍♂</h3>️
 Mi nombre es Jonathan Manuel Palomeque y soy Estudiante autodidacta de Ciberseguridad, tengo conocimientos en Redes, Linux,
 Python, PostgreSQL, HTML y CSS.<br> 
 Actualmente me encuentro formándome en la "Diplomatura en Seguridad Informática Ágil" y en 2022 empiezo el cursado de 
